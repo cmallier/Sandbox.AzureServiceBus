@@ -13,5 +13,6 @@
 
 ## Info
 
-[Implement message-based communication workflows with Azure Service Bus](https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/)
-[Azure.Messaging.ServiceBus](https://azuresdkdocs.blob.core.windows.net/$web/dotnet/Azure.Messaging.ServiceBus/7.2.1/api/index.html)
+- [Implement message-based communication workflows with Azure Service Bus](https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/)
+
+- [Azure.Messaging.ServiceBus](https://azuresdkdocs.blob.core.windows.net/$web/dotnet/Azure.Messaging.ServiceBus/7.2.1/api/index.html)
