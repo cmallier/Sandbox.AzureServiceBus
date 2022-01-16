@@ -1,5 +1,11 @@
 # Sandbox.AzureServiceBus
 
+## Disclaimer
+
+This project is done for learning purposes. It is not necessarily production quality code.
+
+
+## Info
 \<namespace-name\>.servicebus.windows.net
 
 
@@ -10,8 +16,7 @@
 - __Subscription__: The mechanism to consume from a Topic. Each subscription is independent, and receives a copy of each message sent to the topic. Rules and Filters can be used to tailor which messages are received by a specific subscription.
 
 
-
-## Info
+## Info / Learn / Credits
 
 - [Implement message-based communication workflows with Azure Service Bus](https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/)
 
